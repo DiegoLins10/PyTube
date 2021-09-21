@@ -1,6 +1,8 @@
 ## Para baixar a lib pytube:  pip install pytube 
 ## baixar um video do youtube com pytube
 ## python youtube.py   https://youtu.be/61R6Qq7mmIA
+## gerar arquivo exe  pyinstaller --onefile -w baixar.py
+## baixar pyinstaller pip install pyinstaller
 
 from pytube import YouTube
 from tkinter import *
